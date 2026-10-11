@@ -74,10 +74,9 @@ Self-improving embodied agents and robot policies, including autonomous data
 collection, learning from execution feedback, skill discovery, and iterative
 policy refinement.
 
-*Entries coming soon.*
-
 | Date | Paper | Title | Links | Improvement Mechanism |
 | :--- | :--- | :--- | :--- | :--- |
+| 2026-10 | **RoboRSI** | RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments. | [Paper](https://arxiv.org/abs/2610.12424) · [Project](https://lab.noematrix.ai/blog/2-roborsi/) · [Code](https://github.com/nssmd/RoboRSI) | Uses execution feedback to diagnose and locally revise a hierarchical skill tree, validate updates, and consolidate stable skill sequences for reuse. |
 
 <!-- Entry template — replace placeholders with verified information:
 | YYYY-MM | **Short name** | Full paper title. | [Paper](URL) · [Project](URL) · [Code](URL) | What improves, and which feedback drives the update. |
