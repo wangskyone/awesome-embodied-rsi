@@ -51,6 +51,7 @@ and its applications to embodied agents and world models.
 | 2026-08-06 | Building Physical RSI Beyond the Known World | MirroS Team | [Blog](https://mirros.ai/research/building-physical-rsi-beyond-the-known-world) |
 | 2026-07-04 | Harness Engineering for Self-Improvement | Lilian Weng | [Blog](https://lilianweng.github.io/posts/2026-07-04-harness/) |
 | 2026-06-08 | The What & When of Self-Evolving Agents | Xinming Tu | [Blog](https://xinmingtu.cn/blog/2026/self-evolving-agents/) |
+| Not listed | PhysicalRSI: Recursive Self-Harness for Scaling Embodied Skills | Not listed | [Blog](https://yanming03.github.io/PhysicalRSI/) |
 
 <!-- Entry template — replace placeholders with verified information:
 | YYYY-MM-DD | Full blog title | Author / Organization | [Blog](URL) |
